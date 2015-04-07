@@ -25,6 +25,7 @@ defmodule GithubOauth.Mixfile do
   #
   # Type `mix help deps` for more examples and options
   defp deps do
-    []
+    [{:httpoison, "~> 0.6"},
+    {:poison, "~> 1.3"}]
   end
 end
