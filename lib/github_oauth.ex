@@ -1,0 +1,2 @@
+defmodule GithubOauth do
+end
