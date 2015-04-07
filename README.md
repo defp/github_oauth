@@ -1,4 +1,4 @@
 GithubOauth
 ===========
 
-** TODO: Add description **
+## A simple github oauth library
